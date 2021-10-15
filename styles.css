@@ -1,0 +1,16 @@
+body{
+	background-color:LightPink;
+}
+h1{
+	background-color:MediumVioletRed;
+	font-size:100px;
+	color:IndianRed;
+	 -webkit-text-stroke-width: 2px;
+	 -webkit-text-stroke-color: black;
+}
+p{
+	font-size:50px;
+}
+a{
+	text-decoration:none;
+}
